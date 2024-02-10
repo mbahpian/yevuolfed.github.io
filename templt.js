@@ -102,7 +102,7 @@ function license() {
                                 }
                                 _0x59a12f(_0x1c7063(0x2be) + _0x5ea708($license_item[_0x1c7063(0x2b8)]('-', '\x20')) + _0x1c7063(0x262));
                             } else
-                                console['log']('Developed\x20by.\x20https://kangrian.net\x20(\x20Premium\x20Version\x20)');
+                                console['log']('www.deflouvey.com');
                         }
                     }
                 }
